@@ -15,7 +15,7 @@
     "SUDO": {
       "description": "owner number of the bot",
       "required": true,
-      "value": "27733300603"
+      "value": "27733300603,27672819085"
     },
     "MODE": {
       "description": "mode public or private",
