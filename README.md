@@ -1,5 +1,5 @@
 #### HERMIT MD WHATSAPP BOT
-Hermit-md - Simple whatsapp Multi Device whatsapp bot.
+dv4 md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
